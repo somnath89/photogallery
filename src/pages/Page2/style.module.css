@@ -1,0 +1,27 @@
+.like{ 
+  color: red;
+    position: absolute;
+    float: right;
+    bottom: 15px;
+    right: 10px;
+}
+
+.rightArrow{ 
+   
+   position: absolute;
+    top: 40vh;
+    right: 0px;
+    color:white;
+ }
+ .leftArrow{ 
+   
+   position: absolute;
+    top: 40vh;
+    color:white;
+ }
+ 
+
+ .modalWidth {
+    width: 70vw;   /* Occupy the 90% of the screen width */
+    max-width: 70vw;
+} 
