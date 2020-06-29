@@ -16,18 +16,7 @@ class Page2 extends Component {
   }
   paintCardImages(){ 
 
-   const styles = 
-{
-
-media: {
-  height: 0,
-  paddingTop: '56.25%', // 16:9,
-  marginTop:'30'
-}
-  };
-
-
-    let imgArr =["https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(152).jpg",
+   let imgArr =["https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(152).jpg",
                "https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(42).jpg",
                "https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(151).jpg",
                "https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(40).jpg",
